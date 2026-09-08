@@ -4,5 +4,3 @@ def test_login():
 
     assert userName == 'Yaashick Sriram'
     assert passWord == 'admin_123'
-
-test_login()
